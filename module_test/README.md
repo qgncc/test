@@ -1,0 +1,5 @@
+- ```bash git clone https://github.com:qgncc/test.git ```
+- ```bash cd test/module_test ```
+- ```bash npm install ```
+- ```bash node server.js```
+- go to localhost:5000 
